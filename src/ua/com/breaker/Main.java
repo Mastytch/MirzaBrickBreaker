@@ -11,7 +11,7 @@ public class Main {
         GamePlay gamePlay = new GamePlay();
 
         JFrame jFrame = new JFrame();
-        jFrame.setBounds(10, 10, 600, 700);
+        jFrame.setBounds(10, 10, 700, 600);
         jFrame.setTitle("BrickBreaker");
         jFrame.setResizable(false);
         jFrame.add(gamePlay);
